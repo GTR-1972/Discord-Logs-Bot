@@ -1,6 +1,6 @@
 # 🚀 Discord Logger Bot v1.0 | GTR-1972 Edition
 
-**High-performance Discord logging bot** designed for enterprise-scale servers with zero downtime.
+**High-performance Discord logging bot** 
 
 ---
 
@@ -20,3 +20,6 @@ Start Bot
 ```bash
 node logs.js
 ```
+
+
+Coding By 1972 - discord Username | @u972
