@@ -1,0 +1,32 @@
+{
+  "name": "Discord-Logs-Bot",
+  "version": "1.0.0",
+  "description": "A comprehensive Discord bot for logging server events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "logging",
+    "moderation"
+  ],
+  "author": "GTR-1972",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.6.7",
+    "eventsource": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
