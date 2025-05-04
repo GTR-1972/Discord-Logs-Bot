@@ -11,15 +11,16 @@ git clone https://github.com/GTR-1972/Discord-logs-Bot.git
 cd Discord-Logs-Bot
 npm i
 ```
-.env File Token Setup
+# .env File Token Setup
+
 ```bash
 TOKEN=your_bot_Token
 ```
 
-Start Bot 
+# Start Bot 
 ```bash
 node logs.js
 ```
 
 
-Coding By 1972 - discord Username | @u972
+# Coding By 1972 - discord Username | @u972
