@@ -7,9 +7,9 @@
 ## 🔧 Installation (Turbo Mode)
 
 ```bash
-git clone https://github.com/your-repo/discord-logging-bot.git
-cd discord-logging-bot
-npm install --omit=dev --engine-strict
+git clone https://github.com/GTR-1972/Discord-logs-Bot.git
+cd Discord-Logs-Bot
+npm i
 ```
 .env File Token Setup
 ```bash
