@@ -13,7 +13,7 @@ npm i
 ```
 .env File Token Setup
 ```bash
-TOKEN=your_Token
+TOKEN=your_bot_Token
 ```
 
 Start Bot 
